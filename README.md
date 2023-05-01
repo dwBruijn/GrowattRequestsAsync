@@ -5,6 +5,11 @@ This package uses httpx to make async (non-blocking) HTTP requests.
 GrowattRequestsAsync offers you a quick way to monitor your Growatt systems without having to use Growatt's app. 
 It can be easily integrated into your projects (like Home Assistant applications) if you wish to support Growatt and offer your users the ability to monitor and control their Growatt systems.
 
+## Installation
+
+`pip install GrowattRequestsAsync`  
+Available on [PyPI](https://pypi.org/project/GrowattRequestsAsync/)
+
 ## Quick Example
 
 ```python
